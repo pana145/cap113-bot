@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+.env.local
+node_modules/
+.next/
+.embeddings/
+.embeddings/
+.embeddings/ # harmless if the line is already there
