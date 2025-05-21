@@ -45,3 +45,4 @@ node_modules/
 .embeddings/
 .embeddings/
 .embeddings/ # harmless if the line is already there
+.embeddings/
